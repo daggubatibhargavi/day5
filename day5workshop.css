@@ -57,7 +57,7 @@ span {
 }
 #image2 {
   width: 96.7%;
-  object-fit: fill;
+  object-fit: cover;
   height: 400px;
   z-index: 3;
   margin: 30px;
